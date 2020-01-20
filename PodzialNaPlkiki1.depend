@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1579484981 source:c:\users\arkadiusz\documents\projects codeblocks\podzialnaplkiki1\main.cpp
+	<iostream>
+	"Czlowiek.h"
+	"Zwierze.h"
+
+1579484974 c:\users\arkadiusz\documents\projects codeblocks\podzialnaplkiki1\include\czlowiek.h
+	"Zwierze.h"
+
+1579485040 c:\users\arkadiusz\documents\projects codeblocks\podzialnaplkiki1\include\zwierze.h
+	"Czlowiek.h"
+
+1579484775 source:c:\users\arkadiusz\documents\projects codeblocks\podzialnaplkiki1\src\czlowiek.cpp
+	"Czlowiek.h"
+	<iostream>
+	"Zwierze.h"
+
+1579484926 source:c:\users\arkadiusz\documents\projects codeblocks\podzialnaplkiki1\src\zwierze.cpp
+	"Zwierze.h"
+	"Czlowiek.h"
+	<iostream>
+
